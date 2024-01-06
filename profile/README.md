@@ -5,7 +5,6 @@ Akaflieg Freiburg is a tax-privileged, not-for-profit flight club of public util
 - [Homepage of Akaflieg Freiburg](https://akaflieg-freiburg.de)
 
 - [Homepage of **Enroute Flight Navigation**](https://akaflieg-freiburg.github.io/enroute)
-- [Developer information for **Enroute Flight Navigation**](https://github.com/Akaflieg-Freiburg/enroute)
 
 ### Donate
 
